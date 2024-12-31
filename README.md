@@ -36,6 +36,12 @@ A simple Chrome extension that brings a smile to your face by showing a random j
 2. A random joke will be displayed in the popup.
 3. Laugh and enjoy your day!
 
+4. ## Screenshots
+
+![Screenshot of the extension interface](pictures/1.png)
+![Screenshot of the extension interface](pictures/2.png)
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
