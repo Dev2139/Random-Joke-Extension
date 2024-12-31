@@ -38,8 +38,8 @@ A simple Chrome extension that brings a smile to your face by showing a random j
 
 4. ## Screenshots
 
-![Screenshot of the extension interface](pictures/1.png)
-![Screenshot of the extension interface](pictures/2.png)
+![Screenshot of the extension interface](1.png)
+![Screenshot of the extension interface](2.png)
 
 
 ## Contributing
