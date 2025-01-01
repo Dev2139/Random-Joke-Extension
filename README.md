@@ -44,7 +44,7 @@ A simple Chrome extension that brings a smile to your face by showing a random j
 
 5. ## Working Explaination
 
-https://raw.githubusercontent.com/Dev2139/Radom-Joke-Extension/Working.webm)
+[![Watch the video](Working.webm)
 
 
 ## Contributing
