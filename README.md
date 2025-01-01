@@ -47,6 +47,10 @@ A simple Chrome extension that brings a smile to your face by showing a random j
 [![Watch the video](2.png)](Working.mp4)
 
 
+## Linkedin post link
+https://www.linkedin.com/posts/dev-patel2139_coding-chromeextension-randomjokes-activity-7280172056153882624-0FDA?utm_source=share&utm_medium=member_desktop
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
