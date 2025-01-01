@@ -44,7 +44,7 @@ A simple Chrome extension that brings a smile to your face by showing a random j
 
 5. ## Working Explaination
 
-[![Watch the video](Working.webm)
+[![Watch the video](video.mp4)
 
 
 ## Contributing
